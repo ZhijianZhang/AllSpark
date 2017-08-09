@@ -1,0 +1,19 @@
+{
+  "name": "all-spark",
+  "version": "1.0.0",
+  "description": "this is a cli for automatic deployment to a git repo rather than cloning and pushing manually.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhijianZhang/AllSpark.git"
+  },
+  "author": "MrJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhijianZhang/AllSpark/issues"
+  },
+  "homepage": "https://github.com/ZhijianZhang/AllSpark#readme"
+}
